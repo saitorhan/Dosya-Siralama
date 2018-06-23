@@ -1,0 +1,24 @@
+E:\Mühendislik\Dosya Organizasyon Teknikleri\Ödev 1\Uygulama\Uygulama\bin\Debug\Uygulama.exe
+E:\Mühendislik\Dosya Organizasyon Teknikleri\Ödev 1\Uygulama\Uygulama\bin\Debug\Uygulama.pdb
+E:\Mühendislik\Dosya Organizasyon Teknikleri\Ödev 1\Uygulama\Uygulama\obj\Debug\Uygulama.csprojResolveAssemblyReference.cache
+E:\Mühendislik\Dosya Organizasyon Teknikleri\Ödev 1\Uygulama\Uygulama\obj\Debug\Uygulama.Form1.resources
+E:\Mühendislik\Dosya Organizasyon Teknikleri\Ödev 1\Uygulama\Uygulama\obj\Debug\Uygulama.Properties.Resources.resources
+E:\Mühendislik\Dosya Organizasyon Teknikleri\Ödev 1\Uygulama\Uygulama\obj\Debug\Uygulama.csproj.GenerateResource.Cache
+E:\Mühendislik\Dosya Organizasyon Teknikleri\Ödev 1\Uygulama\Uygulama\obj\Debug\Uygulama.exe
+E:\Mühendislik\Dosya Organizasyon Teknikleri\Ödev 1\Uygulama\Uygulama\obj\Debug\Uygulama.pdb
+E:\Mühendislik\Dosya Organizasyon Teknikleri\Ödev 1\Uygulama\Uygulama\bin\Debug\BetterSplitButton.dll
+E:\Mühendislik\Dosya Organizasyon Teknikleri\Ödev 1\Uygulama\Uygulama\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Mühendislik\Dosya Organizasyon Teknikleri\Ödev 1\Uygulama\Uygulama\bin\Debug\BetterSplitButton.pdb
+E:\Mühendislik\Dosya Organizasyon Teknikleri\Ödev 1\Uygulama\Uygulama\bin\Debug\BetterSplitButton.xml
+D:\Mühendislik\Dosya Organizasyon Teknikleri\Ödev 1\Uygulama\Uygulama\obj\Debug\Uygulama.exe
+D:\Mühendislik\Dosya Organizasyon Teknikleri\Ödev 1\Uygulama\Uygulama\obj\Debug\Uygulama.pdb
+C:\Users\sorhan\Downloads\Ödev 1\Uygulama\Uygulama\obj\Debug\Uygulama.exe
+C:\Users\sorhan\Downloads\Ödev 1\Uygulama\Uygulama\obj\Debug\Uygulama.pdb
+C:\Users\sorhan\Downloads\Ödev 1\Uygulama\Uygulama\bin\Debug\Uygulama.exe
+C:\Users\sorhan\Downloads\Ödev 1\Uygulama\Uygulama\bin\Debug\Uygulama.pdb
+C:\Users\sorhan\Downloads\Ödev 1\Uygulama\Uygulama\bin\Debug\BetterSplitButton.pdb
+C:\Users\sorhan\Downloads\Ödev 1\Uygulama\Uygulama\bin\Debug\BetterSplitButton.xml
+C:\Users\sorhan\Downloads\Ödev 1\Uygulama\Uygulama\obj\Debug\Uygulama.csprojResolveAssemblyReference.cache
+C:\Users\sorhan\Downloads\Ödev 1\Uygulama\Uygulama\obj\Debug\Uygulama.Form1.resources
+C:\Users\sorhan\Downloads\Ödev 1\Uygulama\Uygulama\obj\Debug\Uygulama.Properties.Resources.resources
+C:\Users\sorhan\Downloads\Ödev 1\Uygulama\Uygulama\obj\Debug\Uygulama.csproj.GenerateResource.Cache
